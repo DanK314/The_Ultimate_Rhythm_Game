@@ -1,2 +1,2 @@
-# The_Ultimate_Rhythm_Game
+# The Ultimate Rhythm Game
 play with a,s,k,l
